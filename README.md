@@ -1,7 +1,7 @@
 # UCSB BioE 244 / IQB 206 
 
 
-![banner](https://github.com/nv-ucsb-courses/ml_images_S26/banner/AI-banner.png)
+![banner](https://github.com/nv-ucsb-courses/ml_images_S26/blob/main/banner/AI-banner.png)
 
 ## Introduction to machine learning for biological images and structural biology
 
