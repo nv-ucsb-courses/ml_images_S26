@@ -74,11 +74,10 @@ After class or via Zoom by appointment
 
 For quizzes and polls, we will use iClicker in class. If you have not already done so, please make sure you have a UCSB iClicker student account ready. Here is a [link](https://student.iclicker.com/#/login) with the pertinent information. The join link for the course is [here](https://join.iclicker.com/CRUE). If the ink does not work, try searching for "ML for Bioimaging" in the iClicker search interface. Be aware that the in-class iClicker activities will count towards your grades. For polls, I will give credit for participation only, the correctness of the answers will not influence the grades. For quizzes, of course, the grading will depend on the answers.  If you miss an iClicker activity without prior approval, you will not be able to make up for it.
 
-<!-- ### Presentation Format
-15 minutes presentation total (sharp), allow a minimum of 2 minutes for questions. Papers can either be selected from the list provided  [here](https://www.dropbox.com/scl/fo/dmxzezrx4yztq98p5jf9f/APhHThb5mSrmXrMMKzYlTkg?rlkey=vtog00ryx9oc1329h77pz6ew8&dl=0) (first come first serve) or from the general literature upon approval by the instructor. Papers that have already been selected by someone will show up as _\<papertitle\>_\__TAKEN_\__\<NAME\>.pdf_ (where \<papertitle\> and \<NAME\> are variables). 
+### Presentation Format
+12 minutes presentation total (sharp), allow a minimum of 2 minutes for questions. Papers can either be selected from the list provided  [here](https://www.dropbox.com/scl/fo/dmxzezrx4yztq98p5jf9f/APhHThb5mSrmXrMMKzYlTkg?rlkey=vtog00ryx9oc1329h77pz6ew8&dl=0) (first come first serve) or from the general literature upon approval by the instructor. Papers that have already been selected by someone will show up as _\<papertitle\>_\__TAKEN_\__\<NAME\>.pdf_ (where \<papertitle\> and \<NAME\> are variables). 
 
-We will use 3 timeslots for the presentations. Two will fall into the finals week, and one will be the last timeslot for the regular classes. In the interest of fairness, I will calculate the order of the presentations live during the last class before the presentations using the Python random generation capabilities. This will ensure that everyone has to be ready with their presentation at the same time. I will also incorporate attendance at the three presentation sessions into the presentation score. 
--->
+We will use two timeslots for the presentations. These will be the last two slot for the regular classes. In the interest of fairness, I will calculate the order of the presentations live during the last class before the presentations using the Python random generation capabilities. This will ensure that everyone has to be ready with their presentation at the same time. I will also incorporate attendance at both presentation sessions into the presentation score. 
 
 ### Reference Material
 Generally, textbooks do not adequately cover the areas we are discussing due to the exponential development curve of the field. This rapid advancement means that even recently published books can quickly become outdated. Nevertheless, here are three excellent textbooks that cover most of the basic concepts in depth:
@@ -88,7 +87,7 @@ Generally, textbooks do not adequately cover the areas we are discussing due to 
 
 For many of the topics we discussed that are not covered in these books, [Wikipedia](https://www.wikipedia.org/) often serves as a useful initial resource, although the quality can vary. I will also provide some additional resources during this course on this site.
 <!--
-Reviews and Resource tables (with links) are located here: 
+Reviews and Resource tables (with links) are located at the following link. Once done, the lecture notes will also be posted there. 
 * [Course Resource Directory](https://www.dropbox.com/scl/fo/m247co503xbiw1tfkf9st/AIfOKvHiXZJbWii-iwHhG8E?rlkey=nnt5u3gz8tr9e2kjucb7o0p8o&dl=0).
   
 Other useful links: 
