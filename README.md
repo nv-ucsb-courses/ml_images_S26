@@ -94,5 +94,5 @@ Other useful links:
 * [TensorFlow](https://www.tensorflow.org/)
 * [PyTorch](https://pytorch.org/)
 * [Keras](https://keras.io/)
-* [KerasHub](https://keras.io/keras_cv/)
+* [KerasHub](https://keras.io/keras_hub/)
 * [HuggingFace](https://huggingface.co/)
